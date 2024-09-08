@@ -46,7 +46,7 @@ The datastores can be brough down as well with this command
 make dev-docker-datastores-down
 ```
 
-Various `metro` components can now be run. `metro` has 4 components, all components are part of same binary and can be ran using a cmd param `component`
+Various `metro` components can now be run. `metro` has 4 components, all components are part of same binary and can be run using a cmd param `component`
 
 Running Metro Web component
 ```
